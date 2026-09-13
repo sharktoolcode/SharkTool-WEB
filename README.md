@@ -14,7 +14,7 @@
 
 ---
 
-![SharkTool 首页](assets/home.png)
+![SharkTool 首页](docs/images/home.png)
 
 ## 📖 这是什么
 
