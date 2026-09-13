@@ -173,17 +173,6 @@ SharkTool 是一个面向普通用户的**链上代币工具箱**：把「查一
 
 ---
 
-## 🛠 技术栈
-
-- **前端**：React 19 · React Router 7 · Vite · Tailwind CSS · ECharts · Headless UI
-- **链交互**：ethers v6（多 RPC 故障转移）· WalletConnect · @solana/web3.js · SPL Token · Metaplex · Raydium SDK
-- **合约编译**：浏览器内 solc 编译器（Web Worker），支持多版本源码级编译
-- **AI 能力**：服务端代理的 LLM 接口，提供参数解读与函数解释
-- **后端**：Node.js · Express · JSON 文件持久化 · 多链收款地址派生与到账监听
-- **体验**：中英双语切换 · 明暗主题 · 全站响应式
-
----
-
 ## 🔗 相关链接
 
 - 🌐 官网：<https://sharktool.shop>
