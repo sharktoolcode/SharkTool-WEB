@@ -8,6 +8,8 @@
 
 ---
 
+![代币分析页：填入合约地址后点「开始分析合约」](images/analyze.png)
+
 ## 操作步骤
 
 1. 先在**右上角选择好网络**（BSC 主网、Ethereum、Polygon、Arbitrum、Base 等）。页面顶部会显示「当前网络：XXX（右上角可切换）」。

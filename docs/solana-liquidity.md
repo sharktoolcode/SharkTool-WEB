@@ -12,6 +12,8 @@
 
 ---
 
+![Solana「流动性」页签：选 Raydium 建池](images/solana-liquidity.png)
+
 ## 支持的 DEX
 
 | DEX | 状态 |
