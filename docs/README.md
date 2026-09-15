@@ -20,7 +20,7 @@
 | 在 Solana 上发一个 SPL 代币 | [Solana 发币](solana-token.md) |
 | 生成 Solana 靓号地址 | [Solana 靓号地址](solana-vanity.md) |
 | 给 Solana 代币建流动性池 / 撤池 | [Solana 流动性](solana-liquidity.md) |
-| 批量转账、空投、快照持币、归集、查权限 | [Solana 工具](solana-tools.md) |
+| 批量转账、空投、归集、查筹码、查权限 | [Solana 工具](solana-tools.md) |
 | 了解会员能省什么钱 | [会员中心](membership.md) |
 | 搞清楚发币到底收多少服务费 | [服务费说明](fees.md) |
 | 买现成的工具源码 | [源码商城](shop.md) |
