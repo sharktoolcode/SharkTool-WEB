@@ -173,6 +173,19 @@ EVM 各链（Ethereum、Polygon、Arbitrum、Base、BSC 测试网）单独定价
 
 ---
 
+## 📚 文档（GitBook）
+
+- 中文正文：`docs/`（GitBook 站点根目录，见 `.gitbook.yaml`）
+- 英文版：`docs/en/`（与中文同名文件一一对应，配图在 `docs/en/images/`）
+
+**英文页要显示出来，需要在 GitBook 后台配置一次**（仓库侧改不了）：
+Site structure → **Add variant**，把英文版指向 `docs/en` 目录并设置 language = English；
+配置好后 GitBook 会自动出现语言切换器（`gitbook-docs.yaml` 由 GitBook 在保存映射时生成/更新，不要手写）。
+
+> 以后改中文文档时，记得同步改 `docs/en/` 里对应的那页——英文是人工翻译、随仓库版本管理，不会自动跟着变。
+
+---
+
 ## 🔗 相关链接
 
 - 🌐 官网：<https://sharktool.shop>
