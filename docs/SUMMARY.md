@@ -14,6 +14,7 @@
 * [Solana 发币](solana-token.md)
 * [Solana 靓号地址](solana-vanity.md)
 * [Solana 流动性](solana-liquidity.md)
+* [Solana 工具（批量转账 / 空投 / 归集…）](solana-tools.md)
 
 ## 会员与商城
 
